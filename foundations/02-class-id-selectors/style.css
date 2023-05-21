@@ -1,0 +1,9 @@
+.odd {
+    font-style:Verdana, "DejaVu Sans", sans-serif;
+    background-color: hsl(0, 100%, 85%);
+}
+.f24{
+    font-size: 24px;
+}
+#s2 {color:hsl(235, 100%, 50%);font-size:36px;}
+#s4 {background-color:hsl(130, 100%, 75%);font-size:24px;font-weight:700;}
